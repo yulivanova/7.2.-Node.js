@@ -1,0 +1,19 @@
+{
+  "name": "7.2.-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "eslint",
+    "prettier": "prettier"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.36.0",
+    "eslint-config-airbnb-base": "15.0.0",
+    "eslint-config-prettier": " 8.7.0",
+    "prettier": "^2.8.4"
+  }
+}
